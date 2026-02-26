@@ -1,2 +1,2 @@
-# Library-System
-نظام مكتبة بسيط 
+# Shcool-System
+نظام مدرسي بسيط 
