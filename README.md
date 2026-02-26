@@ -104,7 +104,10 @@ ________________________________________
 ________________________________________
 20.	📊 صور من Jira
 
-(يتم إدراج صور Board وSprint وBurndown Chart هنا)
+(يتم إدراج صور من  Board و Sprint )
+<img width="1591" height="775" alt="image" src="https://github.com/user-attachments/assets/d03b055c-dc0a-4f33-a492-d3a6bcc03699" />
+<img width="1576" height="874" alt="image" src="https://github.com/user-attachments/assets/2d168ad0-1b27-4cda-a50e-39b12f0a8784" />
+
 ________________________________________
 21.	🔄 آلية العمل باستخدام Git
 
